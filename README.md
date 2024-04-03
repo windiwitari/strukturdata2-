@@ -1,2 +1,13 @@
 # strukturdata2-
-Program Code
+Studi Kasus:
+Sebuah Warung Makan viral mempunyai berbagai macam menu makanan dan minuman
+Seperti : Nasi goreng, Seblak, Ayam Bakar, Es teh, Es jeruk, Teh hangat
+Suatu ketika penjual sangat kewalahan saat menghitung menu pesanan yang sangat
+membludak secara manual, ia membutuhkan sistem pemesanan & penghitungan otomatis dengan tambahan
+pajak 11%. Dengan Inputan sebagai berikut
+Nama Pelanggan 	:
+Menu Pesanan	  :
+Jumlah pesanan	:
+Serta Hasil Penghitungan dari Pesanan dengan pajak 11% 
+PPN		  :
+Total		:	
