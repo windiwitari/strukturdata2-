@@ -1,2 +1,2 @@
-# strukturdata2-
+# strukturdata2
 Program Code
